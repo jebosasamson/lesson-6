@@ -1,9 +1,9 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.container{
+.container {
     padding: 0 120px;
 }
 
@@ -32,28 +32,18 @@ ul li a {
     color: white;
 }
 
-/* ul li::before{
-    content: '#';
-}
-
-ul li::after{
-    content: '$';
-} */
-
-
-
-ul li:hover{
+ul li:hover {
     background-color: skyblue;
 }
 
-ul li:active{
+ul li:active {
     border: 2px solid white;
 }
 
 /* ul li a:visited{
  color: purple;
 } */
-h1{
+h1 {
     font-size: 64px;
 }
 
@@ -108,7 +98,7 @@ p {
     transition: 0.9s ease;
 }
 
-footer{
+footer {
     padding: 32px;
     background-color: black;
     color: white;
